@@ -1,0 +1,2 @@
+#JetPack Compose:
+Explica en profundidad que es un Compose y enseña a crear interfaces de usuario con @Composable, también a manejar el estado de funciones Composable y que se puede conseguir con esto, agregar animaciones y aplicar estilos y temas, pero sin duda para mi lo más importante es la introducción a elementos de carga diferida que considero de los más esenciales e interesantes de aprender a usar para crear una app.
